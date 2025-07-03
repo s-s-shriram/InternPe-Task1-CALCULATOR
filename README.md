@@ -8,7 +8,7 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🔗 Live Demo
-🌐 [Click here to view the calculator](https://github.com/s-s-shriram/InternPe-Task1-CALCULATOR/)
+🌐 [Click here to view the calculator](https://github.com/s-s-shriram/InternPe-Task1-CALCULATOR/blob/main/Task1%20Calculator-SCREENRECORD%20.mp4)
 
 ---
 
